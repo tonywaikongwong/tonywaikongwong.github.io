@@ -1,0 +1,13 @@
+html 
+{background-image: url(../Images/stars.jpg) }
+    
+h1{color:white; 'Paytone One'}
+P{ color:white; }
+
+
+a { color: white;} 
+
+body{ 
+    margin-left: auto; margin-right: auto; text-align: center; 
+    font-family: 'Architects Daughter'; font-size: 17pt;} 
+
